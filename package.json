@@ -1,0 +1,25 @@
+{
+  "name": "prework",
+  "version": "1.0.0",
+  "description": "Learning Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Alejandro Toledo",
+  "license": "ISC",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toledoal/membership.git"
+
+  }
+}
